@@ -1,4 +1,5 @@
 import math
+# I joined the github!
 g=9.81
 def sin(a):
     radian=math.radians(a)
